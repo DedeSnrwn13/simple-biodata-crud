@@ -1,0 +1,1 @@
+<h2>saya sedang belajar laravel dan ini adalah file dari folder view.</h2>
